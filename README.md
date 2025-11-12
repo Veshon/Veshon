@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/veshon mabima" target="blank"><img src="https://img.shields.io/twitter/follow/veshon mabima?logo=twitter&style=for-the-badge" alt="veshon mabima" /></a> </p>
 
-- 🌱 I’m currently learning **Internet Technologies**
+- 🌱 I’m currently learning **User experience disign**
 
 - 📝 I regularly write articles on [https://medium.com/@vashonmabima12](https://medium.com/@vashonmabima12)
 
