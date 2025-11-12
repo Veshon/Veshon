@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vashonmabima12](https://medium.com/@vashonmabima12)
 
-- 📫 How to reach me **vashonmabima12@gmail.com**
+- 📫 How to reach me **veshonmabima17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
