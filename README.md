@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Veshon Mabima</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Hi 👋, I'm Veshon</h1>
+<h3 align="center">A passionate frond-end developer & UX/UI Designer</h3>
 
 <p align="left"> <a href="https://twitter.com/veshon mabima" target="blank"><img src="https://img.shields.io/twitter/follow/veshon mabima?logo=twitter&style=for-the-badge" alt="veshon mabima" /></a> </p>
 
